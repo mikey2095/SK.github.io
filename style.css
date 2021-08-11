@@ -1,0 +1,761 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 11 Pro / X - 4;
+	--web-view-id: iPhone_11_Pro__X_-_4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_11_Pro__X_-_4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_11_Pro__X_-_4 {
+	position: absolute;
+	width: 375px;
+	height: 1944px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 11 Pro / X - 4;
+	--web-view-id: iPhone_11_Pro__X_-_4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#rays_1 {
+	position: absolute;
+	width: 375px;
+	height: 413px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Asset_1_2 {
+	position: absolute;
+	width: 145px;
+	height: 95px;
+	left: 32px;
+	top: 34px;
+	overflow: visible;
+	transition: all 0s linear;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: SofaKing UI.html;
+	cursor: pointer;
+}
+#Rectangle_20 {
+	fill: rgba(81,62,154,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 1723px;
+	left: 0px;
+	top: 150px;
+}
+#Group_10 {
+	position: absolute;
+	width: 19px;
+	height: 12px;
+	left: 323px;
+	top: 54px;
+	overflow: visible;
+	transition: all 0s linear;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: iPhone_11_Pro___X___10.html;
+	cursor: pointer;
+}
+#Group_1 {
+	position: absolute;
+	width: 19px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Sofaking_Brand {
+	left: 33px;
+	top: 203px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 26px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(250,167,30,1);
+}
+#sofaking_brownies {
+	position: absolute;
+	width: 94px;
+	height: 100px;
+	left: 187px;
+	top: 449px;
+	overflow: visible;
+}
+#sofaking_fruity_bar {
+	position: absolute;
+	width: 93px;
+	height: 100px;
+	left: 94px;
+	top: 449px;
+	overflow: visible;
+}
+#sofaking_mellow_nugz {
+	position: absolute;
+	width: 94px;
+	height: 100px;
+	left: 0px;
+	top: 449px;
+	overflow: visible;
+	--web-animation: fadein 0.2s ease-in;
+	--web-action-type: page;
+	--web-action-target: iPhone_11_Pro___X___14.html;
+	cursor: pointer;
+}
+#sofaking_reversed_smores {
+	position: absolute;
+	width: 94px;
+	height: 100px;
+	left: 281px;
+	top: 449px;
+	overflow: visible;
+}
+#n_00mg_250mg_500mg {
+	left: 33px;
+	top: 1114px;
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 42px;
+	line-height: 51px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+#Dosage {
+	left: 33px;
+	top: 1091px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	height: 8px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(250,167,30,1);
+}
+#Dont_see_your_dispensary_Reque {
+	left: 33px;
+	top: 1544px;
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 60px;
+	line-height: 26px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Why_Sofaking {
+	left: 33px;
+	top: 665px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 25px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(250,167,30,1);
+}
+#Where_is_Sofaking {
+	left: 33px;
+	top: 1306px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 25px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(250,167,30,1);
+}
+#Fruity_Bar_1 {
+	position: absolute;
+	width: 152px;
+	height: 180px;
+	left: 223px;
+	top: 218px;
+	overflow: visible;
+}
+#reversed_smore__leaf_2_1 {
+	position: absolute;
+	width: 189px;
+	height: 129px;
+	left: 17px;
+	top: 235px;
+	overflow: visible;
+}
+#MellowNugz__leaf_1 {
+	position: absolute;
+	width: 308px;
+	height: 211px;
+	left: 25px;
+	top: 238px;
+	overflow: visible;
+}
+#Res_conse_conse_volorion_pro_d {
+	left: 33px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	height: 123px;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#n_The_Mint_Dispensary_Tempe__T {
+	left: 49px;
+	top: 1331px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	height: 203px;
+	line-height: 23px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(28,160,255,1);
+}
+#sofaking_assorted_cut_2 {
+	position: absolute;
+	width: 262.107px;
+	height: 245.698px;
+	left: -1.178px;
+	top: 802.19px;
+	overflow: visible;
+}
+#image_2 {
+	position: absolute;
+	width: 112px;
+	height: 34px;
+	left: 230px;
+	top: 995px;
+	overflow: visible;
+}
+#Rectangle_20_bg {
+	fill: rgba(81,62,154,1);
+}
+.Rectangle_20_bg {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 203px;
+	left: 0px;
+	top: 1670px;
+}
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 18px;
+	left: 201px;
+	top: 1707px;
+}
+#Rectangle_22 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 18px;
+	left: 201px;
+	top: 1737px;
+}
+#Rectangle_23 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 67px;
+	left: 201px;
+	top: 1766px;
+}
+#Email_bs {
+	left: 204px;
+	top: 1709px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 16px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Subject {
+	left: 204px;
+	top: 1740px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 16px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Message {
+	left: 204px;
+	top: 1769px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 16px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Want_to_learn_more_or_have_que {
+	left: 32px;
+	top: 1703px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 63px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Any_questions_regarding_produc {
+	left: 32px;
+	top: 1779px;
+	position: absolute;
+	overflow: hidden;
+	width: 146px;
+	height: 62px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#subscribebutton_4 {
+	position: absolute;
+	width: 47px;
+	height: 18px;
+	left: 201px;
+	top: 1842px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	fill: rgba(81,62,154,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 238px;
+	left: 0px;
+	top: 1670px;
+}
+#Rectangle_25 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 18px;
+	left: 201px;
+	top: 1707px;
+}
+#Email_bs {
+	left: 204px;
+	top: 1709px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 16px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#rays_6 {
+	position: absolute;
+	width: 375px;
+	height: 73px;
+	left: 0px;
+	top: 1871px;
+	overflow: visible;
+}
+#Group_9 {
+	position: absolute;
+	width: 86px;
+	height: 22.872px;
+	left: 145px;
+	top: 1897px;
+	overflow: visible;
+}
+#Vector {
+	fill: rgba(0,0,0,1);
+}
+.Vector {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vector_bw {
+	fill: rgba(0,0,0,1);
+}
+.Vector_bw {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 31.106px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vector_bx {
+	fill: rgba(0,0,0,1);
+}
+.Vector_bx {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 63.128px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#rays_7 {
+	position: absolute;
+	width: 375px;
+	height: 73px;
+	left: 0px;
+	top: 1871px;
+	overflow: visible;
+}
+#Group_10_bz {
+	position: absolute;
+	width: 86px;
+	height: 22.872px;
+	left: 145px;
+	top: 1897px;
+	overflow: visible;
+}
+#Vector_b {
+	fill: rgba(0,0,0,1);
+}
+.Vector_b {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vector_ca {
+	fill: rgba(0,0,0,1);
+}
+.Vector_ca {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 31.106px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vector_cb {
+	fill: rgba(0,0,0,1);
+}
+.Vector_cb {
+	overflow: visible;
+	position: absolute;
+	width: 22.872px;
+	height: 22.872px;
+	left: 63.128px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#bitemebrownies {
+	position: absolute;
+	width: 54px;
+	height: 46px;
+	left: 207px;
+	top: 568px;
+	overflow: visible;
+}
+#fruitybar {
+	position: absolute;
+	width: 68px;
+	height: 33px;
+	left: 107px;
+	top: 576px;
+	overflow: visible;
+}
+#mellownugz {
+	position: absolute;
+	width: 69px;
+	height: 34px;
+	left: 12px;
+	top: 573px;
+	overflow: visible;
+}
+#reversedsmoreslogo {
+	position: absolute;
+	width: 59px;
+	height: 29.032px;
+	left: 296px;
+	top: 576px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 129px;
+	height: 44px;
+	left: 33px;
+	top: 1615px;
+	overflow: visible;
+}
+#enterbttn {
+	position: absolute;
+	width: 129px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_35 {
+	fill: rgba(192,30,102,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 25px;
+	left: 18px;
+	top: 7px;
+}
+#Request {
+	left: 34px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 20px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Group_1_cb {
+	position: absolute;
+	width: 146px;
+	height: 134px;
+	left: 32px;
+	top: 1701px;
+	overflow: visible;
+}
+#Any_questions_regarding_produc_cc {
+	left: 1px;
+	top: 78px;
+	position: absolute;
+	overflow: hidden;
+	width: 146px;
+	height: 56px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#Want_to_learn_more_or_have_que_cd {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 57px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_38 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	height: 71px;
+	left: 201px;
+	top: 1737px;
+}
+#Message_cf {
+	left: 204px;
+	top: 1739px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 15px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#enterbttn_1 {
+	position: absolute;
+	width: 84px;
+	height: 28px;
+	left: 201px;
+	top: 1819px;
+	overflow: visible;
+}
+#Dosages_vary_per_baked_good_No {
+	left: 33px;
+	top: 1162px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	height: 50px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
